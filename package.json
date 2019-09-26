@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-heron/webpack-day-Maria/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-heron/webpack-day-Maria#readme"
+  "homepage": "https://github.com/thinkful-ei-heron/webpack-day-Maria#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
